@@ -4,6 +4,8 @@ Dentre os anexos, estão Atas de reuniões, descrição completa do projeto, log
 
 ### Documentos:
 -Atas de reunioes: Servem para registro de evolução do projeto e participação.
+
 -Descrição completa do projeto (VitaPet.pdf): Possui definição formal do problema, descrição do App, segmentação de mercado, benchmarking de outras soluções, diferenciais e relevancia, segmentação de mercado, MetaSMART, e etc.
+
 -Plano de ação(5W2H): descreve brevemente a tarefa de cada integrante e o prazo de entrega.
 
