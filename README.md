@@ -9,3 +9,5 @@ Dentre os anexos, estão Atas de reuniões, descrição completa do projeto, log
 
 **-Plano de ação(5W2H)**: descreve brevemente a tarefa de cada integrante e o prazo de entrega.
 
+**-Analise de SWOT**: Descreve as Forças, Fraquezas, Oportunidades e Ameaças no meio externo e interno da empresa. Na pasta estão SWOT da concorrencia, e da nossa solução VitaPet.
+
