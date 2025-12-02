@@ -1,5 +1,5 @@
 # ProjetoApp-AppleDeveloperAcademy
-## Grupo 09 - 2025
+## Grupo 09 - 2025 - SenacSP
 Aqui serão anexados todos os arquivos para a criação do projeto de app mobile para a sexta etapa da Apple Developer Academy. 
 Dentre os anexos, estão Atas de reuniões, descrição completa do projeto, logo-tipo e recursos de Design, metodologias utilizadas, tarefas de cada integrante e referencias.
 
